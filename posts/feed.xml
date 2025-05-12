@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>serene::posts</title>
+	<subtitle>Demo posts page for zola-theme-serene</subtitle>
+	<link href="https://samuel-duffield1.github.io/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://samuel-duffield1.github.io/posts/"/>
+	<updated>2024-09-26T00:00:00+00:00</updated>
+	<id>https://samuel-duffield1.github.io/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>First Post</title>
+		<published>2024-09-26T00:00:00+00:00</published>
+		<updated>2024-09-26T00:00:00+00:00</updated>
+		<link href="https://samuel-duffield1.github.io/posts/first-post/" type="text/html"/>
+		<id>https://samuel-duffield1.github.io/posts/first-post/</id>
+		<content type="html">&lt;p&gt;Content in first post attempt 2&lt;&#x2F;p&gt;
+&lt;p&gt;$$
+a+b=c
+$$&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
